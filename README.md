@@ -42,5 +42,3 @@
 ------
 
 [JavierS2](https://github.com/JavierS2)
-
-Last Edited on: 05/08/2021
