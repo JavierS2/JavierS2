@@ -12,16 +12,22 @@
     
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
+
+<h3 align="center">Most Used Languages and Tools:</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,docker,html,css,js,react,py,c,cpp,idea,vscode,ps,linux&perline=5&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,spring,docker,idea&perline=5&theme=light" />
   </a>
 </p>
 
-<h3 align="center">Tools:</h3>
+<h3 align="center">Others Languages and Tools:</h3>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,py,c,cpp,vscode,linux,ps,figma&perline=5&theme=light" />
+  </a>
+</p>
 
 
 <p align="center"> 
