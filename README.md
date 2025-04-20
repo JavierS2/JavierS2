@@ -20,7 +20,7 @@
 <h3 align="center">Others Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,py,c,cpp,vscode,linux,ps,figma&perline=5&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,astro,angular,react,py,c,cpp,vscode,linux,ps,figma&perline=5&theme=light" />
   </a>
 </p>
 
