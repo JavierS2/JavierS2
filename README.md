@@ -13,14 +13,14 @@
 <h3 align="center">Most Used Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,docker,idea&perline=5&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,spring,ts,angular&perline=5&theme=light" />
   </a>
 </p>
 
 <h3 align="center">Others Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,astro,angular,react,py,c,cpp,ps,figma&perline=5&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,astro,react,py,c,cpp,docker,ps,figma&perline=5&theme=light" />
   </a>
 </p>
 
